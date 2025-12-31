@@ -212,7 +212,7 @@ https://youtu.be/XuJoHCaMCrE
 
 ---
 
-### **Author / Main Developer:**  
+### **Author / Developer:**  
 _Jit Sarkar_
 
 ---
