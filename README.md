@@ -59,7 +59,7 @@ This project is designed for **students, job seekers, and developers** who want 
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Anindito05/ai-interview-mocker.git
+git clone https://github.com/ImmorTaLRioTZ/ai-interview-mocker.git
 cd ai-interview-mocker
 ```
 
@@ -186,6 +186,6 @@ Open in browser:
 ### **Using Procedure (Youtube Link)** : https://youtu.be/XuJoHCaMCrE
 ---
 
-### **Author/ Main Developper** : _Anindito Patra_
+### **Author/ Main Developper** : _Jit Sarkar_
 
-## **GitHub** : _[https://github.com/Anindito05]_
+## **GitHub** : _[https://github.com/ImmorTaLRioTZ]_
